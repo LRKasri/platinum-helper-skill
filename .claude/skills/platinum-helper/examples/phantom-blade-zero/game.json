@@ -1,0 +1,365 @@
+{
+ "game": {
+  "zh": "影之刃零",
+  "en": "Phantom Blade Zero",
+  "short_zh": "影之刃零",
+  "short_en": "Phantom Blade 0",
+  "slug": "phantom-blade-zero"
+ },
+ "sources": {
+  "trophy_guide": "https://www.powerpyx.com/phantom-blade-zero-trophy-guide-roadmap/",
+  "collectibles_guide": "https://www.powerpyx.com/phantom-blade-zero-collectibles-guide-100-completion/"
+ },
+ "slug_strip": [
+  "phantom-blade-zero-",
+  "-collectible-locations"
+ ],
+ "step_mode": "checkpoint",
+ "checkpoint_type": "bell",
+ "regions": [
+  {
+   "id": "r1",
+   "title_en": "Weeping Valley Creek",
+   "pages": [
+    {
+     "url": "https://www.powerpyx.com/phantom-blade-zero-weeping-creek-valley-collectible-locations/",
+     "title_en": "Weeping Valley Creek"
+    }
+   ]
+  },
+  {
+   "id": "r2",
+   "title_en": "Crimson Forest",
+   "pages": [
+    {
+     "url": "https://www.powerpyx.com/phantom-blade-zero-crimson-forest-collectible-locations/",
+     "title_en": "Crimson Forest"
+    }
+   ]
+  },
+  {
+   "id": "r3",
+   "title_en": "Village of Lu",
+   "pages": [
+    {
+     "url": "https://www.powerpyx.com/phantom-blade-zero-village-of-lu-collectible-locations/",
+     "title_en": "Village of Lu"
+    }
+   ]
+  },
+  {
+   "id": "r4",
+   "title_en": "Pangzhen",
+   "pages": [
+    {
+     "url": "https://www.powerpyx.com/phantom-blade-zero-pangzhen-collectible-locations/",
+     "title_en": "Pangzhen"
+    }
+   ]
+  },
+  {
+   "id": "r5",
+   "title_en": "Mandate Encampment",
+   "pages": [
+    {
+     "url": "https://www.powerpyx.com/phantom-blade-zero-mandate-encampment-collectible-locations/",
+     "title_en": "Mandate Encampment"
+    }
+   ]
+  },
+  {
+   "id": "r6",
+   "title_en": "Meigu Lake",
+   "pages": [
+    {
+     "url": "https://www.powerpyx.com/phantom-blade-zero-meigu-lake-collectible-locations/",
+     "title_en": "Meigu Lake"
+    }
+   ]
+  },
+  {
+   "id": "r7",
+   "title_en": "Mountain of Imprisonment",
+   "pages": [
+    {
+     "url": "https://www.powerpyx.com/phantom-blade-zero-mountain-of-imprisonment-collectible-locations/",
+     "title_en": "Mountain of Imprisonment"
+    }
+   ]
+  },
+  {
+   "id": "r8",
+   "title_en": "Mirage Estate (Pangzhen)",
+   "pages": [
+    {
+     "url": "https://www.powerpyx.com/phantom-blade-zero-mirage-estate-pangzhen-collectible-locations/",
+     "title_en": "Mirage Estate (Pangzhen)"
+    }
+   ]
+  },
+  {
+   "id": "r9",
+   "title_en": "Mount Soulrend",
+   "pages": [
+    {
+     "url": "https://www.powerpyx.com/phantom-blade-zero-mount-soulrend-collectible-locations/",
+     "title_en": "Mount Soulrend"
+    }
+   ]
+  }
+ ],
+ "type_rules": [
+  [
+   "warn",
+   "^Missable Warning|Required:|Pre-requisite"
+  ],
+  [
+   "bell",
+   "^#[\\d &#]+[–-]\\s*Bell\\b"
+  ],
+  [
+   "tale",
+   "\\(Tales?\\)"
+  ],
+  [
+   "objective",
+   "Objective"
+  ],
+  [
+   "edge",
+   "\\(Phantom Edge\\)"
+  ],
+  [
+   "weapon",
+   "\\(Weapon\\)"
+  ],
+  [
+   "accessory",
+   "\\(Accessory\\)"
+  ],
+  [
+   "medicine",
+   "\\(Medicine\\)"
+  ],
+  [
+   "amber",
+   "Sha-Chi Amber"
+  ],
+  [
+   "blackstone",
+   "Blackstone"
+  ],
+  [
+   "flower",
+   "Memory Flower"
+  ],
+  [
+   "temper",
+   "Tempering Material"
+  ],
+  [
+   "treasure",
+   "\\(Treasure\\)"
+  ],
+  [
+   "challenge",
+   "Challenge Location"
+  ],
+  [
+   "key",
+   "Key Item"
+  ]
+ ],
+ "type_priority": [
+  "bell",
+  "tale",
+  "objective",
+  "edge",
+  "weapon",
+  "accessory",
+  "medicine",
+  "challenge",
+  "amber",
+  "blackstone",
+  "flower",
+  "temper",
+  "treasure",
+  "key",
+  "other",
+  "tip"
+ ],
+ "types": {
+  "bell": [
+   "铃铛",
+   "Bells",
+   "铃",
+   "B",
+   true
+  ],
+  "weapon": [
+   "武器",
+   "Weapons",
+   "武",
+   "W",
+   true
+  ],
+  "edge": [
+   "影之武装",
+   "Phantom Edges",
+   "影",
+   "PE",
+   true
+  ],
+  "accessory": [
+   "饰品",
+   "Accessories",
+   "饰",
+   "A",
+   true
+  ],
+  "medicine": [
+   "药瓶",
+   "Medicines",
+   "药",
+   "M",
+   true
+  ],
+  "challenge": [
+   "挑战",
+   "Challenges",
+   "挑",
+   "C",
+   true
+  ],
+  "amber": [
+   "杀气琥珀",
+   "Sha-Chi Amber",
+   "琥",
+   "SA",
+   true
+  ],
+  "blackstone": [
+   "黑石碎片",
+   "Blackstone",
+   "石",
+   "BS",
+   true
+  ],
+  "flower": [
+   "记忆之花",
+   "Memory Flowers",
+   "花",
+   "MF",
+   true
+  ],
+  "tale": [
+   "支线",
+   "Tales",
+   "支",
+   "T",
+   true
+  ],
+  "objective": [
+   "支线目标",
+   "Objectives",
+   "目",
+   "O",
+   false
+  ],
+  "temper": [
+   "铸魂材料",
+   "Tempering",
+   "铸",
+   "TM",
+   true
+  ],
+  "treasure": [
+   "妙手宝藏",
+   "Treasures",
+   "宝",
+   "Tr",
+   true
+  ],
+  "key": [
+   "剧情道具",
+   "Key items",
+   "钥",
+   "K",
+   false
+  ],
+  "other": [
+   "其他",
+   "Other",
+   "杂",
+   "O",
+   false
+  ],
+  "tip": [
+   "提示",
+   "Tip",
+   "",
+   "",
+   false
+  ],
+  "warn": [
+   "警告",
+   "Warning",
+   "!",
+   "!",
+   false
+  ]
+ },
+ "miss_types": [],
+ "collections": [
+  {
+   "type": "flower",
+   "trophy": "Listen to Every Flower",
+   "source": "tag",
+   "need": "manual",
+   "need_note": {
+    "zh": "奖杯《且听花声》要求集齐 10 朵完整的记忆之花；每朵由 2–6 片花瓣组成，清单按花瓣列出",
+    "en": "The trophy needs 10 complete Memory Flowers; each is 2–6 petals and this list is per petal"
+   }
+  },
+  {
+   "type": "accessory",
+   "trophy": "Collector’s Notes",
+   "source": "tag"
+  },
+  {
+   "type": "treasure",
+   "trophy": "Lost and Found",
+   "source": "tag"
+  },
+  {
+   "type": "temper",
+   "trophy": "A Tempered Ten",
+   "source": "tag",
+   "need": "manual",
+   "need_note": {
+    "zh": "每把武器 / 影之武装只能铸魂一次，且各需专属铸魂材料。本奖杯需为 10 把武器铸魂，另一奖杯《“影”多不压身》需为 10 件影之武装铸魂——约 20 个材料即可，不必全收集",
+    "en": "Each weapon / Phantom Edge can be soul-tempered once and needs its own material. This trophy needs 10 weapons, Phantom Arsenal needs 10 Phantom Edges — about 20 materials, not all of them"
+   }
+  }
+ ],
+ "pages": {
+  "endings": "https://www.powerpyx.com/phantom-blade-zero-true-ending-guide/"
+ },
+ "questlines": {
+  "mode": "tag",
+  "tag": "tale"
+ },
+ "images": {
+  "mode": "auto",
+  "embed_limit_mb": 8
+ },
+ "non_platinum_types": [
+  "bell",
+  "amber",
+  "blackstone",
+  "medicine"
+ ],
+ "trophy_links": {
+  "Even Trees Know Sorrow": "Ba(n)?yan Tree"
+ }
+}

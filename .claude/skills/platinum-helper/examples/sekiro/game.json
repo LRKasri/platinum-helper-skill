@@ -1,0 +1,407 @@
+{
+ "game": {
+  "zh": "只狼：影逝二度",
+  "en": "Sekiro: Shadows Die Twice",
+  "short_zh": "只狼",
+  "short_en": "Sekiro",
+  "slug": "sekiro"
+ },
+ "sources": {
+  "trophy_guide": "https://www.powerpyx.com/sekiro-shadows-die-twice-trophy-guide-roadmap/",
+  "collectibles_guide": "https://www.powerpyx.com/sekiro-shadows-die-twice-full-walkthrough-all-areas/"
+ },
+ "slug_strip": [
+  "sekiro-shadows-die-twice-",
+  "-walkthrough"
+ ],
+ "step_mode": "section",
+ "paragraph_items": true,
+ "note_head_regex": "^(Checkpoints \\(Idols\\)|How to reach|Side Areas of interest)",
+ "regions": [
+  {
+   "id": "r1",
+   "title_en": "Ashina Reservoir",
+   "pages": [
+    {
+     "url": "https://www.powerpyx.com/sekiro-shadows-die-twice-ashina-reservoir-walkthrough/",
+     "title_en": "Ashina Reservoir"
+    }
+   ]
+  },
+  {
+   "id": "r2",
+   "title_en": "Ashina Outskirts",
+   "pages": [
+    {
+     "url": "https://www.powerpyx.com/sekiro-shadows-die-twice-ashina-outskirts-walkthrough/",
+     "title_en": "Ashina Outskirts"
+    }
+   ]
+  },
+  {
+   "id": "r3",
+   "title_en": "Hirata Estate",
+   "pages": [
+    {
+     "url": "https://www.powerpyx.com/sekiro-shadows-die-twice-hirata-estate-walkthrough/",
+     "title_en": "Hirata Estate"
+    }
+   ]
+  },
+  {
+   "id": "r4",
+   "title_en": "Ashina Castle",
+   "pages": [
+    {
+     "url": "https://www.powerpyx.com/sekiro-shadows-die-twice-ashina-castle-walkthrough/",
+     "title_en": "Ashina Castle"
+    }
+   ]
+  },
+  {
+   "id": "r5",
+   "title_en": "Abandoned Dungeon",
+   "pages": [
+    {
+     "url": "https://www.powerpyx.com/sekiro-shadows-die-twice-abandoned-dungeon-walkthrough/",
+     "title_en": "Abandoned Dungeon"
+    }
+   ]
+  },
+  {
+   "id": "r6",
+   "title_en": "Senpou Temple, Mt. Kongo",
+   "pages": [
+    {
+     "url": "https://www.powerpyx.com/sekiro-shadows-die-twice-senpou-temple-mt-kongo-walkthrough/",
+     "title_en": "Senpou Temple, Mt. Kongo"
+    }
+   ]
+  },
+  {
+   "id": "r7",
+   "title_en": "Ashina Depths",
+   "pages": [
+    {
+     "url": "https://www.powerpyx.com/sekiro-shadows-die-twice-ashina-depths-walkthrough/",
+     "title_en": "Ashina Depths"
+    }
+   ]
+  },
+  {
+   "id": "r8",
+   "title_en": "Sunken Valley",
+   "pages": [
+    {
+     "url": "https://www.powerpyx.com/sekiro-shadows-die-twice-sunken-valley-walkthrough/",
+     "title_en": "Sunken Valley"
+    }
+   ]
+  },
+  {
+   "id": "r9",
+   "title_en": "Fountainhead Palace",
+   "pages": [
+    {
+     "url": "https://www.powerpyx.com/sekiro-shadows-die-twice-fountainhead-palace-walkthrough/",
+     "title_en": "Fountainhead Palace"
+    }
+   ]
+  }
+ ],
+ "type_rules": [
+  [
+   "boss",
+   "Gyoubu|Lady Butterfly|Genichiro|Folding Screen Monkeys|Guardian Ape|Corrupted Monk|Great Shinobi|\\bOwl\\b|Divine Dragon|Isshin|Demon of Hatred|Great Serpent|Great Colored Carp|Emma, the Gentle Blade"
+  ],
+  [
+   "elite",
+   "Seven\\ Achina\\ Spears\\ –\\ Shikibu\\ Toshikatsu\\ Yamauchi|Owl\\ Father\\ –\\ Great\\ Shinobi\\ Owl\\ at\\ Hirata\\ Estate|Seven\\ Ashina\\ Spears\\ –\\ Shume\\ Masaji\\ Oniwa|Lone\\ Shadow\\ Masanaga\\ the\\ Spear\\-Bearer|Lone\\ Shadow\\ Masanaga\\ Spear\\-Bearer|Shinobi\\ Hunter\\ Enshin\\ of\\ Misen|Juzou\\ the\\ Drunkard\\ 2nd\\ Version|General\\ Kuranosuke\\ Matsumoto|Ashina\\ Elite\\ –\\ Ujinari\\ Mizuo|Ashina\\ Elite\\ –\\ Jinsuke\\ Saze|Shigekichi\\ of\\ the\\ Red\\ Guard|Long\\-arm\\ Gentipede\\ Giraffe|Long\\-arm\\ Gentipede\\ Sen’un|Sakura\\ Bull\\ of\\ the\\ Palace|General\\ Naomori\\ Kawarada|Lone\\ Shadow\\ Longswordman|General\\ Tenzen\\ Yamauchi|Isshin,\\ the\\ Sword\\ Saint|Folding\\ Screen\\ Monkeys|Emma,\\ the\\ Gentle\\ Blade|Snake\\ Eyes\\ Shirahagi|Tokujiro\\ the\\ Glutton|Snake\\ Eyes\\ Shirafuji|Lone\\ Shadow\\ Vilehand|Guardian\\ Ape\\ Undying|True\\ Corrupted\\ Monk|Underwater\\ Headless|Juzou\\ the\\ Drunkard|O’rin\\ of\\ the\\ Water|Okami\\ Leader\\ Shizu|Great\\ Colored\\ Carp|Great\\ Shinobi\\ Owl|Shichimen\\ Warrior|Genichiro\\ Ashina|Armored\\ Warrior|Demon\\ of\\ Hatred|Lady\\ Butterfly|Corrupted\\ Monk|Isshin\\ Ashina|Great\\ Serpent|Divine\\ Dragon|Chained\\ Ogre|Gyoubu\\ Oniwa|Blazing\\ Bull|Guardian\\ Ape|Mist\\ Noble|Headless|miniboss|mini-boss|Gyoubu|Great Shinobi|Owl\\b|Emma, the Gentle Blade|Shichimen|Headless|\\bLeader [A-Z]\\w+|\\bGeneral [A-Z]\\w+|Lone Shadow|Snake Eyes|Seven A[cs]hina Spears|Ashina Elite|Headless|Shichimen|Chained Ogre|Blazing Bull|Juzou|Armored Warrior|Long-arm|Tokujiro|Mist Noble|O’rin|Sakura Bull|Okami|Shigekichi|Enshin"
+  ],
+  [
+   "bead",
+   "Prayer Bead"
+  ],
+  [
+   "seed",
+   "Gourd Seed"
+  ],
+  [
+   "tool",
+   "Shuriken Wheel|Firecracker|Flame Vent|Flame Barrel|Sabimaru|Mist Raven|Loaded Axe|Shinobi Axe|Loaded Spear|Broken Horn|Divine Abduction|Large Fan|Finger Whistle|Loaded Umbrella|Mechanical Barrel|Prosthetic Tool"
+  ],
+  [
+   "ninjutsu",
+   "Bloodsmoke|Puppeteer|Bestowal|Ninjutsu"
+  ],
+  [
+   "lapis",
+   "Lapis Lazuli"
+  ],
+  [
+   "consumable",
+   "Pellet|Handful of Ash|Snap Seed|Dragonspring|Ungo’s Sugar|Ako’s Sugar|Gachiin’s Sugar|Gokan’s Sugar|Yashariku’s Sugar|Divine Confetti|Sake\\b|Scales?\\b|Spirit Emblem"
+  ],
+  [
+   "key",
+   "Key\\b|Letter|Charm|Bell\\b|Viscera|Holy Chapter|Tears|Rice\\b|Persimmon|Kusabimaru|Mortal Blade"
+  ],
+  [
+   "memory",
+   "\\bMemory\\b"
+  ],
+  [
+   "skill",
+   "Rank \\d|Deathblow|Combat Art|Mikiri|Shinobi Medicine"
+  ],
+  [
+   "idol",
+   "\\b[Ii]dols?\\b"
+  ],
+  [
+   "npc",
+   "Emma|Sculptor|\\bKuro\\b|Hanbei|Kotaro|Tokujiro|O’rin|Divine Child|Divine Heir|Fujioka|Doujun|Blackhat Badger|Pot Noble|Mist Noble|Crow|Kingfisher|Isshin"
+  ]
+ ],
+ "type_priority": [
+  "boss",
+  "elite",
+  "bead",
+  "seed",
+  "tool",
+  "ninjutsu",
+  "key",
+  "consumable",
+  "memory",
+  "skill",
+  "npc",
+  "idol",
+  "other",
+  "tip"
+ ],
+ "types": {
+  "boss": [
+   "首领",
+   "Bosses",
+   "首",
+   "B",
+   true
+  ],
+  "bead": [
+   "佛珠",
+   "Prayer Beads",
+   "珠",
+   "PB",
+   true
+  ],
+  "seed": [
+   "葫芦种子",
+   "Gourd Seeds",
+   "葫",
+   "GS",
+   true
+  ],
+  "tool": [
+   "义手忍具",
+   "Prosthetic Tools",
+   "忍",
+   "PT",
+   true
+  ],
+  "ninjutsu": [
+   "忍杀忍术",
+   "Ninjutsu",
+   "术",
+   "NJ",
+   true
+  ],
+  "key": [
+   "关键道具",
+   "Key items",
+   "钥",
+   "K",
+   false
+  ],
+  "memory": [
+   "战斗记忆",
+   "Memories",
+   "忆",
+   "M",
+   false
+  ],
+  "skill": [
+   "技能",
+   "Skills",
+   "技",
+   "S",
+   false
+  ],
+  "npc": [
+   "NPC",
+   "NPCs",
+   "人",
+   "N",
+   true
+  ],
+  "idol": [
+   "鬼佛",
+   "Idols",
+   "佛",
+   "I",
+   true
+  ],
+  "other": [
+   "路线",
+   "Route",
+   "路",
+   "R",
+   false
+  ],
+  "tip": [
+   "提示",
+   "Tip",
+   "",
+   "",
+   false
+  ],
+  "warn": [
+   "警告",
+   "Warning",
+   "!",
+   "!",
+   false
+  ],
+  "lapis": [
+   "源之琉璃",
+   "Lapis Lazuli",
+   "璃",
+   "LL",
+   false
+  ],
+  "elite": [
+   "精英",
+   "Mini-bosses",
+   "精",
+   "MB",
+   true
+  ],
+  "consumable": [
+   "消耗品",
+   "Consumables",
+   "消",
+   "C",
+   false
+  ]
+ },
+ "non_platinum_types": [
+  "consumable",
+  "elite",
+  "idol",
+  "memory"
+ ],
+ "miss_types": [],
+ "collections": [
+  {
+   "type": "bead",
+   "trophy": "Peak Physical Strength",
+   "source": "bytype",
+   "url": "https://www.powerpyx.com/sekiro-shadows-die-twice-all-prayer-bead-locations/",
+   "match": "order",
+   "label_zh": "佛珠 #{n}",
+   "desc": true
+  },
+  {
+   "type": "seed",
+   "trophy": "Ultimate Healing Gourd",
+   "source": "bytype",
+   "url": "https://www.powerpyx.com/sekiro-shadows-die-twice-all-gourd-seed-locations/",
+   "match": "order",
+   "label_zh": "葫芦种子 #{n}",
+   "desc": true
+  },
+  {
+   "type": "tool",
+   "trophy": "All Prosthetic Tools",
+   "source": "bytype",
+   "url": "https://www.powerpyx.com/sekiro-shadows-die-twice-all-prosthetic-tool-locations/",
+   "match": "name",
+   "desc": true
+  },
+  {
+   "type": "ninjutsu",
+   "trophy": "All Ninjutsu Techniques",
+   "source": "bytype",
+   "url": "https://www.powerpyx.com/sekiro-shadows-die-twice-all-ninjutsu-locations/",
+   "match": "name",
+   "name_regex": "^Ninjutsu \\d+\\s*[–-]\\s*(.*)$",
+   "desc": true
+  },
+  {
+   "type": "lapis",
+   "trophy": "Lazuline Upgrade",
+   "source": "bytype",
+   "url": "https://www.powerpyx.com/sekiro-shadows-die-twice-all-lapis-lazuli-locations/",
+   "match": "order",
+   "need": "manual",
+   "label_zh": "源之琉璃 #{n}",
+   "need_note": {
+    "zh": "奖杯《琉璃之强化》只要求用源之琉璃把任意一件义手忍具强化到底，不必收集全部源之琉璃",
+    "en": "The trophy only needs one prosthetic tool fully upgraded with Lapis Lazuli — not every Lapis Lazuli"
+   },
+   "desc": true
+  },
+  {
+   "type": "allboss",
+   "trophy": "Man Without Equal",
+   "source": "items",
+   "names": [
+    "^Gyoubu Masataka Oniwa$",
+    "^Lady Butterfly$",
+    "^Genichiro Ashina$",
+    "^Folding Screen Monkeys$",
+    "^Corrupted Monk$",
+    "^Guardian Ape$",
+    "^Guardian Ape Undying$",
+    "^Great Shinobi Owl$",
+    "^Emma, the Gentle Blade",
+    "^Isshin Ashina \\(Shura",
+    "^True Corrupted Monk$",
+    "^Divine Dragon$",
+    "^Demon of Hatred$",
+    "^Genichiro, Way of Tomoe$",
+    "^Sword Saint Isshin Ashina$",
+    "^Owl Father"
+   ],
+   "need_note": {
+    "zh": "「头目」指游戏里的 BOSS（B站 wiki 按游戏参数列出的 16 个）：不含序章弦一郎、白蛇神、鱼王锦鲤和各精英。修罗线（永真、天守阁一心）与复归常人线（义父）的头目要在同一个存档里打完——按路线里的两周目 + 存档备份方案走即可。",
+    "en": "\"Bosses\" = the game's 16 BOSS-class enemies (Chinese wiki list from the game parameters): not the prologue Genichiro, the Great Serpent, the Carp or any miniboss. The Shura-route (Emma, Isshin) and Purification-route (Owl Father) bosses must all be beaten in one save — follow the route's 2-playthrough + backup plan."
+   }
+  }
+ ],
+ "pages": {
+  "bosses": "https://www.powerpyx.com/sekiro-shadows-die-twice-boss-guide-all-bosses/",
+  "endings": "https://www.powerpyx.com/sekiro-shadows-die-twice-how-to-get-all-endings/"
+ },
+ "endings": {
+  "heading_regex": "^Ending (\\d+)\\s*[–-]\\s*(.*?)(?: \\((.*)\\))?$"
+ },
+ "questlines": {
+  "mode": "tag",
+  "tag": "__none__"
+ },
+ "images": {
+  "mode": "auto",
+  "embed_limit_mb": 8
+ },
+ "trophy_links": {
+  "Shinobi Prosthetic": "Prosthetic Arm",
+  "Revered Blade": "Kusabimaru",
+  "Memorial Mob": "Memorial Mob"
+ },
+ "zh_replacements": [
+  [
+   "驱怖散",
+   "驱怖粉"
+  ]
+ ]
+}

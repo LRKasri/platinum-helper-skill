@@ -1,0 +1,678 @@
+{
+ "game": {
+  "zh": "明末：渊虚之羽",
+  "en": "Wuchang: Fallen Feathers",
+  "short_zh": "渊虚之羽",
+  "short_en": "Wuchang",
+  "slug": "wuchang"
+ },
+ "sources": {
+  "trophy_guide": "https://www.powerpyx.com/wuchang-fallen-feathers-trophy-guide-roadmap/",
+  "collectibles_guide": "https://www.powerpyx.com/wuchang-fallen-feathers-all-collectible-locations-guide/"
+ },
+ "slug_strip": [
+  "wuchang-fallen-feathers-",
+  "-collectible-locations"
+ ],
+ "step_mode": "page",
+ "regions": [
+  {
+   "id": "r1",
+   "title_en": "Worship’s Rise",
+   "note_en": "",
+   "pages": [
+    {
+     "url": "https://www.powerpyx.com/wuchang-fallen-feathers-reverent-temple-collectible-locations/",
+     "title_en": "Reverent Temple"
+    },
+    {
+     "url": "https://www.powerpyx.com/wuchang-fallen-feathers-buddha-cliffs-collectible-locations/",
+     "title_en": "Buddha Cliffs"
+    },
+    {
+     "url": "https://www.powerpyx.com/wuchang-fallen-feathers-lightzen-temple-collectible-locations/",
+     "title_en": "Lightzen Temple"
+    },
+    {
+     "url": "https://www.powerpyx.com/wuchang-fallen-feathers-annalum-collectible-locations/",
+     "title_en": "Annalum"
+    },
+    {
+     "url": "https://www.powerpyx.com/wuchang-fallen-feathers-shu-sanctum-collectible-locations/",
+     "title_en": "Shu Sanctum"
+    },
+    {
+     "url": "https://www.powerpyx.com/wuchang-fallen-feathers-mercury-workshop-collectible-locations/",
+     "title_en": "Mercury Workshop"
+    },
+    {
+     "url": "https://www.powerpyx.com/wuchang-fallen-feathers-bandit-cave-collectible-locations/",
+     "title_en": "Bandit Cave"
+    },
+    {
+     "url": "https://www.powerpyx.com/wuchang-fallen-feathers-doomwillow-beach-collectible-locations/",
+     "title_en": "Doomwillow Beach"
+    },
+    {
+     "url": "https://www.powerpyx.com/wuchang-fallen-feathers-lu-mansion-collectible-locations/",
+     "title_en": "Lu Mansion"
+    },
+    {
+     "url": "https://www.powerpyx.com/wuchang-fallen-feathers-corpse-pits-collectible-locations/",
+     "title_en": "Corpse Pits"
+    },
+    {
+     "url": "https://www.powerpyx.com/wuchang-fallen-feathers-palace-hill-lotus-pond-collectible-locations/",
+     "title_en": "Palace Hill"
+    },
+    {
+     "url": "https://www.powerpyx.com/wuchang-fallen-feathers-palace-hill-lotus-pond-collectible-locations/#lotus-pond",
+     "title_en": "Lotus Pond"
+    }
+   ]
+  },
+  {
+   "id": "r2",
+   "title_en": "Cloudspire",
+   "note_en": "",
+   "pages": [
+    {
+     "url": "https://www.powerpyx.com/wuchang-fallen-feathers-hillswatch-collectible-locations/",
+     "title_en": "Hillswatch"
+    },
+    {
+     "url": "https://www.powerpyx.com/wuchang-fallen-feathers-snowy-passage-collectible-locations/",
+     "title_en": "Snowy Passage"
+    },
+    {
+     "url": "https://www.powerpyx.com/wuchang-fallen-feathers-cloudspire-outskirts-collectible-locations/",
+     "title_en": "Cloudspire Outskirts"
+    },
+    {
+     "url": "https://www.powerpyx.com/wuchang-fallen-feathers-mort-grotto-collectible-locations/",
+     "title_en": "Mort Grotto"
+    },
+    {
+     "url": "https://www.powerpyx.com/wuchang-fallen-feathers-rebel-camp-collectible-locations/",
+     "title_en": "Rebel Camp"
+    },
+    {
+     "url": "https://www.powerpyx.com/wuchang-fallen-feathers-snowpeak-pass-collectible-locations/",
+     "title_en": "Snowpeak Pass"
+    },
+    {
+     "url": "https://www.powerpyx.com/wuchang-fallen-feathers-cloudspire-city-collectible-locations/",
+     "title_en": "Cloudspire City"
+    },
+    {
+     "url": "https://www.powerpyx.com/wuchang-fallen-feathers-snowfall-palace-collectible-locations/",
+     "title_en": "Snowfall Palace"
+    },
+    {
+     "url": "https://www.powerpyx.com/wuchang-fallen-feathers-treasure-trove-collectible-locations/",
+     "title_en": "Treasure Trove"
+    },
+    {
+     "url": "https://www.powerpyx.com/wuchang-fallen-feathers-shaft-entrance-collectible-locations/",
+     "title_en": "Shaft Entrance"
+    },
+    {
+     "url": "https://www.powerpyx.com/wuchang-fallen-feathers-brides-boudoir-collectible-locations/",
+     "title_en": "Bride’s Boudoir"
+    },
+    {
+     "url": "https://www.powerpyx.com/wuchang-fallen-feathers-wedding-hall-collectible-locations/",
+     "title_en": "Wedding Hall"
+    }
+   ]
+  },
+  {
+   "id": "r3",
+   "title_en": "Mt. Zhenwu",
+   "note_en": "Note: there’s an extra shrine in Mt. Zhenwu called “Tomb” but it can only be unlocked later after reaching Bo Capital, will be covered as part of 5th region.",
+   "pages": [
+    {
+     "url": "https://www.powerpyx.com/wuchang-fallen-feathers-battlefield-pass-collectible-locations/",
+     "title_en": "Battlefield Pass"
+    },
+    {
+     "url": "https://www.powerpyx.com/wuchang-fallen-feathers-refugee-camp-collectible-locations/",
+     "title_en": "Refugee Camp"
+    },
+    {
+     "url": "https://www.powerpyx.com/wuchang-fallen-feathers-avian-dwelling-collectible-locations/",
+     "title_en": "Avian Dwelling"
+    },
+    {
+     "url": "https://www.powerpyx.com/wuchang-fallen-feathers-avian-marsh-collectible-locations/",
+     "title_en": "Avian Marsh"
+    },
+    {
+     "url": "https://www.powerpyx.com/wuchang-fallen-feathers-zhenwu-antechamber-collectible-locations/",
+     "title_en": "Zhenwu Antechamber (Main Rebel Camp)"
+    },
+    {
+     "url": "https://www.powerpyx.com/wuchang-fallen-feathers-pavilion-of-knowledge-collectible-locations/",
+     "title_en": "Pavilion of Knowledge"
+    },
+    {
+     "url": "https://www.powerpyx.com/wuchang-fallen-feathers-altar-gate-collectible-locations/",
+     "title_en": "Altar Gate"
+    },
+    {
+     "url": "https://www.powerpyx.com/wuchang-fallen-feathers-zhenwu-altar-collectible-locations/",
+     "title_en": "Zhenwu Altar – Point of No Return: talking to Storyteller transports you to 4th region and makes the 1st region unavailable"
+    },
+    {
+     "url": "https://www.powerpyx.com/wuchang-fallen-feathers-ferry-overlook-collectible-locations/",
+     "title_en": "Ferry Overlook"
+    },
+    {
+     "url": "https://www.powerpyx.com/wuchang-fallen-feathers-bai-mansion-collectible-locations/",
+     "title_en": "Bai Mansion"
+    },
+    {
+     "url": "https://www.powerpyx.com/wuchang-fallen-feathers-rivulet-collectible-locations/",
+     "title_en": "Rivulet"
+    }
+   ]
+  },
+  {
+   "id": "r4",
+   "title_en": "Worship’s Rise in Ruins",
+   "note_en": "",
+   "pages": [
+    {
+     "url": "https://www.powerpyx.com/wuchang-fallen-feathers-worships-rise-in-ruins-annalum-collectible-locations/",
+     "title_en": "Annalum"
+    },
+    {
+     "url": "https://www.powerpyx.com/wuchang-fallen-feathers-worships-rise-in-ruins-shu-sanctum-collectible-locations/",
+     "title_en": "Shu Sanctum"
+    },
+    {
+     "url": "https://www.powerpyx.com/wuchang-fallen-feathers-annalum-courtyard-collectible-locations/",
+     "title_en": "Annalum Courtyard"
+    },
+    {
+     "url": "https://www.powerpyx.com/wuchang-fallen-feathers-palace-vegetable-garden-collectible-locations/",
+     "title_en": "Palace Vegetable Garden"
+    },
+    {
+     "url": "https://www.powerpyx.com/wuchang-fallen-feathers-palace-pass-collectible-locations/",
+     "title_en": "Palace Pass"
+    },
+    {
+     "url": "https://www.powerpyx.com/wuchang-fallen-feathers-palace-entrance-collectible-locations/",
+     "title_en": "Palace Entrance"
+    },
+    {
+     "url": "https://www.powerpyx.com/wuchang-fallen-feathers-bo-shrine-collectible-locations/",
+     "title_en": "Bo Shrine"
+    },
+    {
+     "url": "https://www.powerpyx.com/wuchang-fallen-feathers-worships-rise-in-ruins-reverent-temple-collectible-locations/",
+     "title_en": "Reverent Temple"
+    },
+    {
+     "url": "https://www.powerpyx.com/wuchang-fallen-feathers-burning-cave-collectible-locations/",
+     "title_en": "Burning Cavern"
+    }
+   ]
+  },
+  {
+   "id": "r5",
+   "title_en": "Bo Capital",
+   "note_en": "",
+   "pages": [
+    {
+     "url": "https://www.powerpyx.com/wuchang-fallen-feathers-capital-entrance-collectible-locations/",
+     "title_en": "Capital Entrance"
+    },
+    {
+     "url": "https://www.powerpyx.com/wuchang-fallen-feathers-depths-of-the-capital-collectible-locations/",
+     "title_en": "Depths of the Capital & Tomb in Mt. Zhenwu"
+    },
+    {
+     "url": "https://www.powerpyx.com/wuchang-fallen-feathers-shrine-dwelling-collectible-locations/",
+     "title_en": "Shrine Dwelling"
+    },
+    {
+     "url": "https://www.powerpyx.com/wuchang-fallen-feathers-the-forbidden-lands-gate-of-truth-collectible-locations/",
+     "title_en": "The Forbidden Lands"
+    },
+    {
+     "url": "https://www.powerpyx.com/wuchang-fallen-feathers-the-forbidden-lands-gate-of-truth-collectible-locations/#gate-of-truth",
+     "title_en": "Gate of Truth"
+    }
+   ]
+  }
+ ],
+ "type_rules": [
+  [
+   "save",
+   "SAVE BACKUP"
+  ],
+  [
+   "ending",
+   "\\bENDING\\b|Ending\\)|Ending$"
+  ],
+  [
+   "warn",
+   "POINT OF NO RETURN|DON.?T |DO NOT |^WARNING|IMPORTANT|IGNORE|BEFORE interacting|Everything after here"
+  ],
+  [
+   "boss",
+   "^Boss|Secret Boss|Boss:"
+  ],
+  [
+   "shrine",
+   "^Shrine"
+  ],
+  [
+   "riddle",
+   "Riddle"
+  ],
+  [
+   "gate",
+   "Benediction Gate"
+  ],
+  [
+   "bamboo",
+   "Bamboozling"
+  ],
+  [
+   "demon",
+   "Inner Demon"
+  ],
+  [
+   "wugang",
+   "Wu Gang (Shop Upgrade|item|Item)|\\(Wu Gang\\)"
+  ],
+  [
+   "taoqing",
+   "Tao Qing (Shop Upgrade|item|Item)|\\(Tao Qing\\)"
+  ],
+  [
+   "remembrance",
+   "Forgotten Remembrance|Forgotten Remains"
+  ],
+  [
+   "remains",
+   "Lost Remains"
+  ],
+  [
+   "weapon",
+   "Weapon"
+  ],
+  [
+   "pendant",
+   "Jade Pendant"
+  ],
+  [
+   "npc",
+   "^NPC|NPCs"
+  ],
+  [
+   "spell",
+   "Spell"
+  ],
+  [
+   "armor",
+   "Armor|Armour|Helmet|Headwear|Cap\\b"
+  ],
+  [
+   "skill",
+   "Red Mercury Essence|Skill Point|Red-Eyed Enemy"
+  ],
+  [
+   "quest",
+   "Quest Item|Key Item|Story Item|Key\\b"
+  ]
+ ],
+ "type_priority": [
+  "save",
+  "ending",
+  "boss",
+  "shrine",
+  "riddle",
+  "gate",
+  "bamboo",
+  "demon",
+  "wugang",
+  "taoqing",
+  "remembrance",
+  "remains",
+  "weapon",
+  "pendant",
+  "npc",
+  "spell",
+  "armor",
+  "skill",
+  "quest",
+  "other",
+  "tip"
+ ],
+ "types": {
+  "shrine": [
+   "神龛",
+   "Shrines",
+   "龛",
+   "S",
+   true
+  ],
+  "weapon": [
+   "武器",
+   "Weapons",
+   "武",
+   "W",
+   true
+  ],
+  "pendant": [
+   "玉佩",
+   "Pendants",
+   "佩",
+   "P",
+   true
+  ],
+  "boss": [
+   "首领",
+   "Bosses",
+   "首",
+   "B",
+   true
+  ],
+  "npc": [
+   "NPC",
+   "NPCs",
+   "人",
+   "N",
+   true
+  ],
+  "bamboo": [
+   "笋精",
+   "Bamboozlings",
+   "笋",
+   "Bz",
+   true
+  ],
+  "demon": [
+   "心魔",
+   "Inner Demons",
+   "魔",
+   "D",
+   true
+  ],
+  "riddle": [
+   "谜题",
+   "Riddles",
+   "谜",
+   "R",
+   true
+  ],
+  "gate": [
+   "先神之言",
+   "Benediction Gates",
+   "言",
+   "G",
+   true
+  ],
+  "wugang": [
+   "吴刚货物",
+   "Wu Gang items",
+   "吴",
+   "WG",
+   true
+  ],
+  "taoqing": [
+   "陶青货物",
+   "Tao Qing items",
+   "陶",
+   "TQ",
+   true
+  ],
+  "remembrance": [
+   "羽族追忆",
+   "Remembrances",
+   "忆",
+   "FR",
+   true
+  ],
+  "remains": [
+   "羽族遗骸",
+   "Lost Remains",
+   "骸",
+   "LR",
+   true
+  ],
+  "spell": [
+   "法术",
+   "Spells",
+   "法",
+   "Sp",
+   true
+  ],
+  "armor": [
+   "防具",
+   "Armor",
+   "甲",
+   "A",
+   false
+  ],
+  "skill": [
+   "赤汞精华",
+   "Skill points",
+   "丹",
+   "SP",
+   false
+  ],
+  "quest": [
+   "任务道具",
+   "Quest items",
+   "物",
+   "Q",
+   false
+  ],
+  "ending": [
+   "结局",
+   "Endings",
+   "局",
+   "E",
+   false
+  ],
+  "save": [
+   "存档备份",
+   "Save backup",
+   "存",
+   "SV",
+   false
+  ],
+  "other": [
+   "其他",
+   "Other",
+   "杂",
+   "O",
+   false
+  ],
+  "tip": [
+   "提示",
+   "Tip",
+   "",
+   "",
+   false
+  ],
+  "warn": [
+   "警告",
+   "Warning",
+   "!",
+   "!",
+   false
+  ]
+ },
+ "miss_types": [
+  "npc",
+  "riddle"
+ ],
+ "collections": [
+  {
+   "type": "weapon",
+   "trophy": "Legendary Collector",
+   "source": "bytype",
+   "url": "https://www.powerpyx.com/wuchang-fallen-feathers-all-weapon-locations/",
+   "match": "name",
+   "category_suffix": true
+  },
+  {
+   "type": "pendant",
+   "trophy": "Pendant Gatherer",
+   "source": "bytype",
+   "url": "https://www.powerpyx.com/wuchang-fallen-feathers-all-jade-pendant-locations/",
+   "match": "name",
+   "name_regex": "^(.*?Pendant)\\b"
+  },
+  {
+   "type": "bamboo",
+   "trophy": "Bamboozling Return",
+   "source": "bytype",
+   "url": "https://www.powerpyx.com/wuchang-fallen-feathers-all-bamboozling-locations/",
+   "match": "number",
+   "number_regex": "Bamboozling\\s*#\\s*{n}\\b",
+   "label_zh": "笋精 #{n}"
+  },
+  {
+   "type": "demon",
+   "trophy": "Quelling Madness",
+   "source": "bytype",
+   "url": "https://www.powerpyx.com/wuchang-fallen-feathers-all-inner-demon-bo-blood-locations/",
+   "match": "order",
+   "label_zh": "心魔 #{n}",
+   "glossary_category": "inner_demons"
+  },
+  {
+   "type": "wugang",
+   "trophy": "Shop of Plenty",
+   "source": "bytype",
+   "url": "https://www.powerpyx.com/wuchang-fallen-feathers-all-wu-gang-item-locations/",
+   "match": "name"
+  },
+  {
+   "type": "taoqing",
+   "trophy": "Well Traveled",
+   "source": "bytype",
+   "url": "https://www.powerpyx.com/wuchang-fallen-feathers-all-tao-qing-item-locations/",
+   "match": "name"
+  },
+  {
+   "type": "remembrance",
+   "trophy": "Overflowing Manna",
+   "source": "bytype",
+   "url": "https://www.powerpyx.com/wuchang-fallen-feathers-all-forgotten-remembrance-locations/",
+   "match": "order",
+   "label_zh": "羽族追忆 #{n}"
+  },
+  {
+   "type": "remains",
+   "trophy": "Surging Manna",
+   "source": "bytype",
+   "url": "https://www.powerpyx.com/wuchang-fallen-feathers-all-forgotten-remains-locations/",
+   "match": "order",
+   "label_zh": "羽族遗骸 #{n}"
+  },
+  {
+   "type": "gate",
+   "trophy": "Discerning Eye",
+   "source": "bytype",
+   "url": "https://www.powerpyx.com/wuchang-fallen-feathers-all-benediction-gate-locations/",
+   "match": "paren",
+   "glossary_category": "benediction_gates"
+  },
+  {
+   "type": "shrine",
+   "trophy": "Radiant Faith",
+   "source": "bytype",
+   "url": "https://www.powerpyx.com/wuchang-fallen-feathers-all-shrine-locations/",
+   "match": "name",
+   "head_regex": "^Shrine"
+  },
+  {
+   "type": "riddle",
+   "trophy": "Sage",
+   "source": "bytype",
+   "url": "https://www.powerpyx.com/wuchang-fallen-feathers-all-riddle-locations-solutions/",
+   "match": "number",
+   "number_regex": "Riddle\\s*#\\s*{n}\\b",
+   "label_zh": "谜题 #{n}"
+  }
+ ],
+ "pages": {
+  "bosses": "https://www.powerpyx.com/wuchang-fallen-feathers-boss-guide-all-bosses/",
+  "questlines": "https://www.powerpyx.com/wuchang-fallen-feathers-npc-questlines-guide/",
+  "endings": "https://www.powerpyx.com/wuchang-fallen-feathers-all-endings-guide/"
+ },
+ "questlines": {
+  "mode": "guide",
+  "aliases": {
+   "Nian Suichang": [
+    "Nian Suchang"
+   ],
+   "White-Robed Elder (Zhao Yun)": [
+    "White Robed Elder",
+    "Zhao Yun"
+   ],
+   "Qiao Lin & Qiao Ling": [
+    "Qiao Ying"
+   ],
+   "Child in the Jar": [
+    "Child in a Jar"
+   ],
+   "Huang Jian’e": [
+    "Huang Jian"
+   ],
+   "Yonder Ging (Children Gang in Cloudspire)": [
+    "Glut\\b",
+    "Glut’s",
+    "Yonder"
+   ],
+   "Bamboo Courtyard Woman": [
+    "Bamboo Courtyard"
+   ],
+   "Red-Clad Lady (Bo Magus)": [
+    "Red-Clad Lady"
+   ]
+  },
+  "name_zh": {
+   "Yonder Ging (Children Gang in Cloudspire)": "云顶城孩童帮",
+   "Qiao Lin & Qiao Ling": "谯林 & 谯英"
+  }
+ },
+ "endings": {
+  "heading_regex": "^Ending (\\d+): (.*?) \\((.*)\\)"
+ },
+ "images": {
+  "mode": "auto",
+  "embed_limit_mb": 8
+ },
+ "zh_replacements": [
+  [
+   "保存数据和游戏/应用程序设置",
+   "存储数据和游戏/应用程序设置"
+  ],
+  [
+   "保存数据（PS5）",
+   "存储数据(PS5)"
+  ],
+  [
+   "同步保存数据",
+   "同步存储数据"
+  ],
+  [
+   "&gt; 上传 &gt; 上传到云存储",
+   "&gt; 上传或删除主机存储 &gt; 上传至云存储"
+  ]
+ ],
+ "non_platinum_types": [
+  "spell",
+  "armor",
+  "skill"
+ ]
+}

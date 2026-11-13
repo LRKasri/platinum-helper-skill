@@ -1,0 +1,433 @@
+{
+ "game": {
+  "zh": "剑星",
+  "en": "Stellar Blade",
+  "short_zh": "剑星",
+  "short_en": "Stellar Blade",
+  "slug": "stellar-blade"
+ },
+ "sources": {
+  "trophy_guide": "https://www.powerpyx.com/stellar-blade-trophy-guide-roadmap/",
+  "collectibles_guide": "https://www.powerpyx.com/stellar-blade-all-collectible-locations-guide/"
+ },
+ "slug_strip": [
+  "stellar-blade-",
+  "-collectible-locations"
+ ],
+ "step_mode": "checkpoint",
+ "checkpoint_type": "camp",
+ "regions": [
+  {
+   "id": "r1",
+   "title_en": "Eidos 7",
+   "note_en": "",
+   "pages": [
+    {
+     "url": "https://www.powerpyx.com/stellar-blade-eidos-7-collectible-locations/",
+     "title_en": "Eidos 7"
+    }
+   ]
+  },
+  {
+   "id": "r2",
+   "title_en": "Xion City",
+   "note_en": "Main hub, revisited throughout the story; the last section is only reachable in the endgame.",
+   "pages": [
+    {
+     "url": "https://www.powerpyx.com/stellar-blade-xion-city-collectible-locations/",
+     "title_en": "Xion City"
+    }
+   ]
+  },
+  {
+   "id": "r3",
+   "title_en": "Wasteland",
+   "note_en": "First open region; the \"Final Area\" section is reached during the final mission.",
+   "pages": [
+    {
+     "url": "https://www.powerpyx.com/stellar-blade-wasteland-collectible-locations/",
+     "title_en": "Wasteland"
+    }
+   ]
+  },
+  {
+   "id": "r4",
+   "title_en": "Altess Levoire",
+   "note_en": "",
+   "pages": [
+    {
+     "url": "https://www.powerpyx.com/stellar-blade-altess-levoire-collectible-locations/",
+     "title_en": "Altess Levoire"
+    }
+   ]
+  },
+  {
+   "id": "r5",
+   "title_en": "Matrix 11",
+   "note_en": "",
+   "pages": [
+    {
+     "url": "https://www.powerpyx.com/stellar-blade-matrix-11-collectible-locations/",
+     "title_en": "Matrix 11"
+    }
+   ]
+  },
+  {
+   "id": "r6",
+   "title_en": "Great Desert",
+   "note_en": "Second open region; first visited briefly during Matrix 11.",
+   "pages": [
+    {
+     "url": "https://www.powerpyx.com/stellar-blade-great-desert-collectible-locations/",
+     "title_en": "Great Desert"
+    }
+   ]
+  },
+  {
+   "id": "r7",
+   "title_en": "Abyss Levoire",
+   "note_en": "1st point of no return after finishing this area (Lily progress bar decides whether Eidos 9 opens).",
+   "pages": [
+    {
+     "url": "https://www.powerpyx.com/stellar-blade-abyss-levoire-collectible-locations/",
+     "title_en": "Abyss Levoire"
+    }
+   ]
+  },
+  {
+   "id": "r8",
+   "title_en": "Eidos 9",
+   "note_en": "Optional: only available if Lily’s progress bar is maxed before leaving Abyss Levoire.",
+   "pages": [
+    {
+     "url": "https://www.powerpyx.com/stellar-blade-eidos-9-collectible-locations/",
+     "title_en": "Eidos 9"
+    }
+   ]
+  },
+  {
+   "id": "r9",
+   "title_en": "Spire 4",
+   "note_en": "2nd point of no return after finishing Spire 4 (final mission).",
+   "pages": [
+    {
+     "url": "https://www.powerpyx.com/stellar-blade-spire-4-collectible-locations/",
+     "title_en": "Spire 4"
+    }
+   ]
+  }
+ ],
+ "skip_paragraph_regex": "^(NEXT:|For an overview|Collectibles? Overview|Everything here can be obtained|Collectible Guide$|«|Share$|For all other regions)",
+ "type_rules": [
+  [
+   "warn",
+   "POINT OF NO RETURN|^WARNING|Spoiler Warning"
+  ],
+  [
+   "boss",
+   "(?:^|/)\\s*(?:Unidentified Naytiba|Elder Naytiba|Demogorgon|Juggernaut|Maelstr[oa]m|Corrupter|Behemoth|Karakuri|Abaddon|Adam V\\d|Stalker|Belial|Gigas|Brute|Raven|Tachy)\\s*(?:/|$)"
+  ],
+  [
+   "camp",
+   "\\bCamp\\s*#"
+  ],
+  [
+   "nanosuit",
+   "Nano\\s*Suit"
+  ],
+  [
+   "exospine",
+   "Exospine"
+  ],
+  [
+   "can",
+   "\\bCan\\s*#"
+  ],
+  [
+   "weaponcore",
+   "Weapon\\s*Core"
+  ],
+  [
+   "bodycore",
+   "Body\\s*Core"
+  ],
+  [
+   "betacore",
+   "Beta\\s*Core"
+  ],
+  [
+   "tumbler",
+   "Tumbler\\s*Expansion"
+  ],
+  [
+   "drone",
+   "Drone\\s*Upgrade"
+  ],
+  [
+   "passcode",
+   "Passcode"
+  ],
+  [
+   "document",
+   "\\bDocument\\b"
+  ],
+  [
+   "memory",
+   "Memory\\s*Stick"
+  ],
+  [
+   "record",
+   "Memory\\s*Stick|\\bDocument\\b|Passcode"
+  ],
+  [
+   "box",
+   "\\bBox\\s*#\\s*\\d+\\b(?!\\s*Passcode)|Deluxe Box"
+  ],
+  [
+   "naytiba",
+   "(?:^|/)\\s*(?:Unidentified Naytiba|Cannon Guardian|Cricket Butcher|Cricket Slasher|Lesser Behemoth|Mutated Boarlet|Mutated Creeper|Mutated Defiler|Skull Berserker|Cricket Boomer|Heavy Guardian|Elder Naytiba|Lesser Lurker|Mutated Hydra|Skull Fighter|Skull Trooper|Battle Droid|Broken Droid|Guard Turret|Machine Hive|Mutated Mite|Skull Gunner|Test Subject|Turret Droid|Democrawler|Heavy Droid|Demogorgon|Juggernaut|Sentryborg|Aid Drone|Corrupter|Hedgeboar|Houndborg|Maelstorm|Old Droid|Barnacle|Behemoth|Guardian|Infector|Karakuri|Skulling|Tentacle|Abaddon|Adam V1|Adam V2|Boarlet|Creeper|Defiler|Kokeshi|Stalker|Belial|Cocoon|Lurker|Waster|Dozer|Droid|Gigas|Hydra|Orcal|Raven|Tachy|Hive|Lump|Mite)\\s*(?:/|$)"
+  ],
+  [
+   "shop",
+   "Store$|^D1G-g2r$"
+  ]
+ ],
+ "type_priority": [
+  "boss",
+  "nanosuit",
+  "exospine",
+  "can",
+  "weaponcore",
+  "bodycore",
+  "betacore",
+  "tumbler",
+  "drone",
+  "camp",
+  "passcode",
+  "document",
+  "memory",
+  "box",
+  "naytiba",
+  "shop",
+  "record",
+  "other",
+  "tip"
+ ],
+ "types": {
+  "camp": [
+   "营地",
+   "Camps",
+   "营",
+   "Cp",
+   true
+  ],
+  "box": [
+   "箱子",
+   "Boxes",
+   "箱",
+   "Bx",
+   true
+  ],
+  "memory": [
+   "记忆棒",
+   "Memory Sticks",
+   "忆",
+   "MS",
+   true
+  ],
+  "document": [
+   "文件",
+   "Documents",
+   "文",
+   "D",
+   true
+  ],
+  "passcode": [
+   "密码",
+   "Passcodes",
+   "密",
+   "PC",
+   true
+  ],
+  "naytiba": [
+   "奈提巴数据",
+   "Naytiba Data",
+   "奈",
+   "N",
+   true
+  ],
+  "can": [
+   "饮料罐",
+   "Cans",
+   "罐",
+   "C",
+   true
+  ],
+  "nanosuit": [
+   "纳米服",
+   "Nano Suits",
+   "服",
+   "NS",
+   true
+  ],
+  "exospine": [
+   "外骨骼",
+   "Exospines",
+   "骨",
+   "E",
+   true
+  ],
+  "bodycore": [
+   "身体核心",
+   "Body Cores",
+   "体",
+   "BC",
+   true
+  ],
+  "betacore": [
+   "贝塔核心",
+   "Beta Cores",
+   "贝",
+   "βC",
+   true
+  ],
+  "weaponcore": [
+   "武器核心",
+   "Weapon Cores",
+   "武",
+   "WC",
+   true
+  ],
+  "tumbler": [
+   "饮料瓶扩展模块",
+   "Tumbler Modules",
+   "瓶",
+   "TM",
+   true
+  ],
+  "drone": [
+   "无人机升级模块",
+   "Drone Modules",
+   "机",
+   "DM",
+   true
+  ],
+  "boss": [
+   "首领",
+   "Bosses",
+   "首",
+   "B",
+   true
+  ],
+  "shop": [
+   "商店",
+   "Shops",
+   "商",
+   "S",
+   false
+  ],
+  "record": [
+   "资料库条目",
+   "Data Bank entries",
+   "录",
+   "R",
+   false
+  ],
+  "other": [
+   "其他",
+   "Other",
+   "杂",
+   "O",
+   false
+  ],
+  "tip": [
+   "提示",
+   "Tip",
+   "",
+   "",
+   false
+  ],
+  "warn": [
+   "警告",
+   "Warning",
+   "!",
+   "!",
+   false
+  ]
+ },
+ "miss_types": [],
+ "region_aliases": {
+  "Xion": "r2"
+ },
+ "collections": [
+  {
+   "type": "can",
+   "trophy": "Can Collector",
+   "source": "bytype",
+   "url": "https://www.powerpyx.com/stellar-blade-all-can-locations/",
+   "match": "name",
+   "name_regex": "^[–-]?\\s*(.*)$"
+  },
+  {
+   "type": "nanosuit",
+   "trophy": "Nano Suit Collector",
+   "source": "tag"
+  },
+  {
+   "type": "record",
+   "trophy": "Records Collector",
+   "source": "tag"
+  },
+  {
+   "type": "box",
+   "trophy": "Box Hunter",
+   "source": "tag"
+  },
+  {
+   "type": "naytiba",
+   "trophy": "Naytiba Researcher",
+   "source": "tag"
+  },
+  {
+   "type": "camp",
+   "trophy": "Meticulous Explorer",
+   "source": "tag"
+  },
+  {
+   "type": "exospine",
+   "trophy": "Perfect Exospine",
+   "source": "bytype",
+   "url": "https://www.powerpyx.com/stellar-blade-all-exospine-locations/",
+   "match": "name",
+   "name_regex": "^[–-]?\\s*(.*)$"
+  },
+  {
+   "type": "weaponcore",
+   "trophy": "Perfect Blood Edge",
+   "source": "tag"
+  },
+  {
+   "type": "tumbler",
+   "trophy": "Perfect Rechargeable Tumbler",
+   "source": "tag"
+  },
+  {
+   "type": "bodycore",
+   "trophy": "Perfect Physical Enhancement",
+   "source": "tag"
+  },
+  {
+   "type": "betacore",
+   "trophy": "Perfect Beta Energy Enhancement",
+   "source": "tag"
+  }
+ ],
+ "pages": {
+  "endings": "https://www.powerpyx.com/stellar-blade-all-endings-guide/"
+ },
+ "images": {
+  "mode": "auto",
+  "embed_limit_mb": 8
+ },
+ "item_heading_level": 3
+}
